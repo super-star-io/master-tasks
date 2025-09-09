@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+seaborn
+missingno
+openpyxl
+xlrd
+pyarrow
+datatable
+datawig
+category_encoders
+ydata-profiling
+sweetviz
+dask
